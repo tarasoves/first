@@ -1,3 +1,5 @@
+[Текст ссылки](#abcd)
+
 [![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](https://www.youtube.com/watch?v=O45ggVysoro)
 
 # Table of Contents
@@ -54,3 +56,5 @@
 ## Section 1
 <div id='id-section2'/>
 ## Section 2
+
+<a name="abcd"></a>
