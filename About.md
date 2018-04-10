@@ -1,3 +1,5 @@
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](https://www.youtube.com/watch?v=O45ggVysoro)
+
 # Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)
