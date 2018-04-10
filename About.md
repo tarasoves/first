@@ -1,4 +1,4 @@
-[![N|Solid]
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
 
 # Самый главный заголовок
 
